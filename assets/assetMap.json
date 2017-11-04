@@ -1,0 +1,17 @@
+{
+  "assets": {
+    "assets/assetMap.json": "assets/assetMap.json",
+    "assets/dummy-fastboot.js": "assets/dummy-fastboot-5bad6a103a3f7783d3db00e9f1787319.js",
+    "assets/dummy.css": "assets/dummy-d41d8cd98f00b204e9800998ecf8427e.css",
+    "assets/dummy.js": "assets/dummy-abb08080b49f6e0e0672b49f7cef891f.js",
+    "assets/vendor.css": "assets/vendor-9d55a9054e9c7d09e1b75b0b75f3b969.css",
+    "assets/vendor.js": "assets/vendor-f092a7609aa4aca079923f69f8efdaec.js",
+    "ember-fetch/fastboot-fetch.js": "ember-fetch/fastboot-fetch-805e176077930c98aec5834ae48bd0f2.js",
+    "icons/ic_done_white_24dp_2x.png": "icons/ic_done_white_24dp_2x-2ff73e9be0a9d711b128145a8311d05c.png",
+    "icons/ic_error_outline_white_24dp_2x.png": "icons/ic_error_outline_white_24dp_2x-ea63d9c12fb5307302c02687f09ec923.png",
+    "icons/ic_more_vert_white_24dp_2x.png": "icons/ic_more_vert_white_24dp_2x-075cac6089718e5722912b32fe755551.png",
+    "moment/fastboot-moment-timezone.js": "moment/fastboot-moment-timezone-578ab4bc24839c1fa18fc484b2cf5d0d.js",
+    "moment/fastboot-moment.js": "moment/fastboot-moment-fc1d02c2a35021ee4ca1a6f87a5a64c7.js"
+  },
+  "prepend": ""
+}
